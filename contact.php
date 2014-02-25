@@ -37,8 +37,8 @@
 		<P> Use the form below to submit any questions/comments you may have.</P>
 	
 	
-	<form action="http://formmail.dreamhost.com/cgi-bin/formmail.cgi" method="POST">
-		<input type=hidden name="recipient" value="evallone@equiventurecapital.com">
+	<form action="formmail.php" method="POST">
+		<input type=hidden name="recipient" value="chris@solvedesign.com">
 		<input type=hidden name="subject" value="Website Inquiry">
 		<input type=hidden name="redirect" value="http://www.equiventurecapital.com">
 	<table class="contactform">
