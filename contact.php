@@ -41,6 +41,7 @@
 		<input type=hidden name="recipients" value="chris@solvedesign.com">
 		<input type=hidden name="subject" value="Website Inquiry">
 		<input type=hidden name="good_url" value="http://www.equiventurecapital.com">
+		<input type=hidden name="bad_url" value="http://www.equiventurecapital.com">
 	<table class="contactform">
 		<tr>
 			<td>Name:</td><td><input type=text name="realname"></td>

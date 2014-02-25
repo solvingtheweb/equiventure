@@ -35,10 +35,11 @@
 		<P> Use the form below to submit the information required to receive a quick quote on your project.</P>
 	
 	
-	<form action="http://formmail.dreamhost.com/cgi-bin/formmail.cgi" method="POST">
-		<input type=hidden name="recipient" value="evallone@equiventurecapital.com">
+	<form action="formmail.php" method="POST">
+		<input type=hidden name="recipients" value="chris@solvedesign.com">
 		<input type=hidden name="subject" value="Website Inquiry - Quick Quote">
-		<input type=hidden name="redirect" value="http://www.equiventurecapital.com">
+		<input type=hidden name="good_url" value="http://www.equiventurecapital.com">
+		<input type=hidden name="bad_url" value="http://www.equiventurecapital.com">
 		<input type="hidden" name="required" value="Amount, Value, Fico, Property Type, Property City, Property State, email">
 	<table class="contactform">
 		<tr>
