@@ -40,7 +40,7 @@
 		<input type=hidden name="subject" value="Website Inquiry - Quick Quote">
 		<input type=hidden name="good_url" value="http://www.equiventurecapital.com">
 		<input type=hidden name="bad_url" value="http://www.equiventurecapital.com">
-		<input type="hidden" name="required" value="Amount, Value, Fico, Property Type, Property City, Property State, email">
+		
 	<table class="contactform">
 		<tr>
 			<td>* Loan Amount:</td><td><input type=text name="Amount"></td>
