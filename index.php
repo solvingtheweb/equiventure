@@ -25,6 +25,7 @@
 
 
 	<div id="rightnav">
+		<!--
 		<h1>Want eNews?</h1><br />
 		<div class="newsletter">
 		<p>
@@ -48,6 +49,7 @@
 		</form>
 		</div>
 		<br />
+		-->
 		<h1>Get a Quick Quote</h1>
 		<p>
 		<a href="quickquote.php">Click Here</a> to fill out a short form to receive a quick quote on the product of your choice.
