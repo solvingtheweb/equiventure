@@ -36,7 +36,7 @@
 	
 	
 	<form action="formmail.php" method="POST">
-		<input type=hidden name="recipients" value="chris@solvedesign.com">
+		<input type=hidden name="recipients" value="evallone@equiventurecapital.com">
 		<input type=hidden name="subject" value="Website Inquiry - Quick Quote">
 		<input type=hidden name="good_url" value="http://www.equiventurecapital.com">
 		<input type=hidden name="bad_url" value="http://www.equiventurecapital.com">
