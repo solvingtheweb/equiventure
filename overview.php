@@ -80,7 +80,7 @@
 				<p><strong>Matthew Morrison</strong><br>Director<br>Mid-Atlantic Region<br>Berlin Maryland<br>443.397.7479</p>
 			</div>
 			<div class="contact">
-				
+				<a href="mmuzio.php"><img src="images/bio/mmuziocontact.jpg" alt="" width="60" height="60" border="0"></a>
 				<p><strong>Martha Muzio</strong><br>Associate Director<br>Southeastern Region<br>212.877.0554</p>
 			</div>
 			
