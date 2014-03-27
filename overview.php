@@ -76,7 +76,7 @@
 				<p><strong>Robert Olah</strong><br>Director of Real Estate<br>Western Region<br>El Segundo, California</p>
 			</div>
 			<div class="contact">
-				<img src="images/bio/mmorrisoncontact.jpg" alt="" width="60" height="60" border="0">
+				<a href="mmorrison.php"><img src="images/bio/mmorrisoncontact.jpg" alt="" width="60" height="60" border="0"></a>
 				<p><strong>Matthew Morrison</strong><br>Director<br>Mid-Atlantic Region<br>Berlin Maryland<br>443.397.7479</p>
 			</div>
 			<div class="contact">
