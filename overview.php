@@ -50,10 +50,7 @@
 			</div>
 
 		<br class="clearboth">
-			<div class="contact">
-				<a href="dsmith.php"><img src="images/bio/dsmithcontact.jpg" alt="" width="60" height="60" border="0"></a>
-				<p><strong>R. Daniel Smith</strong><br>Executive Vice President<br>Venture Capital Consulting Division<br>Raleigh, North Carolina</p>
-			</div>
+			
 			<div class="contact">
 				<a href="jschopfer.php"><img src="images/bio/jschopfercontact.jpg" alt="" width="60" height="60" border="0"></a>
 				<p><strong>John M. Schopfer</strong><br>Managing Partner for<br>Equiventure Capital Hospitality Leisure Group, LLC<br>New York, New York</p>
