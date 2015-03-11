@@ -57,12 +57,12 @@
 				<td>Resort Development</td>
 				<td>Costa Rica</td>
 				<td>$225M</td>
-				<td>Acquisition & Construction</td>
+				<td>Acquisition &amp; Construction</td>
 			</tr>
 			<tr>
 				<td>Commercial Retail</td>
 				<td>New York City</td>
-				<td>$10.5M</td>
+				<td>$23M</td>
 				<td>Structured Debt</td>
 			</tr>
 			<tr>
@@ -84,10 +84,10 @@
 				<td>Debt</td>
 			</tr>
 			<tr>
-				<td>Multifamily</td>
-				<td>New York City</td>
-				<td>$26M</td>
-				<td>Debt/Equity</td>
+				<td>Hospital - Hotel</td>
+				<td>Long Island, NY</td>
+				<td>$12M</td>
+				<td>Debt</td>
 			</tr>
 			<tr>
 				<td>Assisted Living Complex</td>
@@ -96,15 +96,15 @@
 				<td>Construction</td>
 			</tr>
 			<tr>
-				<td>Commercial Retail</td>
-				<td>St. Kitts</td>
-				<td>$22M</td>
+				<td>Mixed Use</td>
+				<td>Denver, CO</td>
+				<td>$18M</td>
 				<td>Construction</td>
 			</tr>
 			<tr>
-				<td>Hotel/Resort</td>
-				<td>Bahamas</td>
-				<td>$20M</td>
+				<td>Student Housing</td>
+				<td>New York</td>
+				<td>$15M</td>
 				<td>Construction</td>
 			</tr>
 			<tr>
@@ -132,10 +132,10 @@
 				<td>Debt/Equity</td>
 			</tr>
 			<tr>
-				<td>Entertainment Complex</td>
-				<td>Pennsylvania</td>
-				<td>$15M</td>
-				<td>Sale/Lease Back</td>
+				<td>Student Housing</td>
+				<td>Las Vegas</td>
+				<td>$28M</td>
+				<td>Construction</td>
 			</tr>
 		</table>	
 

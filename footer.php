@@ -5,7 +5,7 @@
 			<b>Legal</b><br /> <a href="privacypolicy.php">Privacy Policy</a><br /><a href="codeofconduct.php">Code of Conduct</a>
 		</div>
 		<div class="floatright">
-			<b>Berlin, Maryland</b><br />443.397.7479<br /><br /><b>Sarasota, Florida</b><br />Hospitality Leisure Group<br />941.952.8438 / 212.877.0554
+			<b>Berlin, Maryland</b><br />443.397.7479<br /><br /><b>Sarasota, Florida</b><br />Hospitality Leisure Group<br />212.877.0554
 		</div>
 		<div class="floatright">
 			<b>Atlanta, Georgia</b><br />212.877.0554<br /><br /><b>El Segundo, California</b><br />310.387.1316<br />
