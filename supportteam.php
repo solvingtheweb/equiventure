@@ -43,11 +43,15 @@
 
 		<br class="clearboth">
 			<div class="contact">
-				<p><strong>Larry Zhao</strong><br>Associate Financial Analyst<br>New York, New York</p>
+				<p><strong>Oscar Dong</strong><br>Associate Financial Analyst<br>New York, New York</p>
 			</div>
 			
 			<div class="contact">
 				<p><strong>Sarah Nazario</strong><br>Associate Financial Analyst<br>New York, New York</p>
+			</div>
+			
+			<div class="contact">
+				<p><strong>Ling Yang</strong><br>Associate Financial Analyst<br>New York, New York</p>
 			</div>
 			
 			

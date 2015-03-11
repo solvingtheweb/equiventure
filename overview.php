@@ -74,11 +74,19 @@
 			</div>
 			<div class="contact">
 				<a href="mmorrison.php"><img src="images/bio/mmorrisoncontact.jpg" alt="" width="60" height="60" border="0"></a>
-				<p><strong>Matthew Morrison</strong><br>Director<br>Mid-Atlantic Region<br>Berlin Maryland<br>443.397.7479</p>
+				<p><strong>Matthew Morrison</strong><br>Director<br>Mid-Atlantic Region<br>Berlin Maryland</p>
 			</div>
 			<div class="contact">
-				<a href="mmuzio.php"><img src="images/bio/mmuziocontact.jpg" alt="" width="60" height="60" border="0"></a>
-				<p><strong>Martha Muzio</strong><br>Associate Director<br>Southeastern Region<br>212.877.0554</p>
+				<a href="mmercer.php"><img src="images/bio/mmercercontact.jpg" alt="" width="60" height="60" border="0"></a>
+				<p><strong>Michael Mercer</strong><br>Senior Advisory Board Member<br>Pittsburgh, Pennsylvania</p>
+			</div>
+			<div class="contact">
+				<img src="images/bio/lheiningercontact.jpg" alt="" width="60" height="60" border="0">
+				<p><strong>Linda Heininger</strong><br>Associate<br>Pittsburgh, Pennsylvania</p>
+			</div>
+			<div class="contact">
+				<!--<a href="mmuzio.php"><img src="images/bio/mmuziocontact.jpg" alt="" width="60" height="60" border="0"></a> -->
+				<p><strong>Enrique Cruz</strong><br>Vice President Real Estate Development<br>New York, NY</p>
 			</div>
 			
 			
