@@ -8,7 +8,7 @@
 			<b>Berlin, Maryland</b><br />443.397.7479<br /><br /><b>Sarasota, Florida</b><br />Hospitality Leisure Group<br />212.877.0554
 		</div>
 		<div class="floatright">
-			<b>Atlanta, Georgia</b><br />212.877.0554<br /><br /><b>El Segundo, California</b><br />310.387.1316<br />
+			<b>Pittsburgh, Pennsylvania</b><br />212.877.0554<br /><br /><b>El Segundo, California</b><br />310.387.1316<br />
 		</div>
 		<div class="floatright">
 			<b>Raleigh, North Carolina</b><br />212.877.0554<br /><br /><b>San Juan, Puerto Rico</b><br />787.403.8008 / 212.877.0554<br />
