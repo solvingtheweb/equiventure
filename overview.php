@@ -31,13 +31,14 @@
 	<div id="subcontent1">
 	
 		
-                <h1>Executive Team</h1>
+        <h1>Executive Team</h1>
 		<div class="highlight">
 		<p class="specialh2">The Equiventure Capital Team all share the same solid beliefs and determination that embodies the foundation of this firm’s dedication to the Client.  That is to be absolutely dedicated to achieving our Client’s goals through creative financing and, most importantly, by abiding to ethical standards established in Equiventure Capital’s Code of Conduct.
 		<br />
 		</p>
-                                                                     <p class="rightalign"> Elizabeth Vallone,<br />
-                                                                       Founder & Managing Partner</p>
+        <p class="rightalign"> Elizabeth Vallone,<br />
+	    Founder & Managing Partner
+		</p>
 		</div>
 
 			<div class="managingpartner">
@@ -84,16 +85,36 @@
 				<img src="images/bio/lheiningercontact.jpg" alt="" width="60" height="60" border="0">
 				<p><strong>Linda Heininger</strong><br>Associate<br>Pittsburgh, Pennsylvania</p>
 			</div>
-			<div class="contact">
-				<!--<a href="mmuzio.php"><img src="images/bio/mmuziocontact.jpg" alt="" width="60" height="60" border="0"></a> -->
-				<p><strong>Enrique Cruz</strong><br>Vice President Real Estate Development<br>New York, NY</p>
-			</div>
 			
 			
 			
 		<br class="clearboth">
 		<div style="clear:both;">
 		<br>
+		
+		<h1>Advisory Board Committee</h1><br /><br />
+
+
+			<div class="contact">
+				<p><strong>Elizabeth Vallone, JD</strong><br>Advisory Board Chairperson</p>
+			</div>
+			<div class="contact">
+				<p><strong>Kenneth J. Aronson, Esq.</strong><br>Senior Advisory Board Member</p>
+			</div>
+			<div class="contact">
+				<p><strong>Suzanne Di Geronimo, FAIA</strong><br>Di Geronimo Architects<br>Senior Advisory Board Member</p>
+			</div>
+			<div class="contact">
+				<p><strong>Michael Mercer</strong><br>Senior Advisory Board Member</p>
+			</div>
+			<div class="contact">
+				<p><strong>Michael Vallone</strong><br>Senior Advisory Board Member</p>
+			</div>
+			
+			<br class="clearboth">
+			<div style="clear:both;"></div>
+			
+		
 		</div>
 			
 			
