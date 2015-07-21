@@ -3,7 +3,7 @@
 	 <div id="container">
 		
 		<div id="top3">
-		<img src="images/banner_shadow.png" class="bannershadow">
+		<img src="images/banner_wave.jpg" class="bannershadow">
 		</div>
 	
 	<div id="mainleftnav">
