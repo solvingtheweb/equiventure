@@ -15,7 +15,7 @@
 		</div>
 		
 		<div class="floatright">
-			<b>Headquarter Office</b><br />1500 Broadway<br />Suite 501 / Flr 5<br />New York, NY 10036<br />212.877.0555<br />
+			<b>Headquarter Office</b><br />1500 Broadway<br />Suite 505 / Flr 5<br />New York, NY 10036<br />212.877.0555<br />
 		</div>
 		
 	</div>
