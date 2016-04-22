@@ -43,30 +43,30 @@
 		
                 <h1> Joint Venture Financing</h1>
 		<p class="specialh2"> 
-		Equiventure Capital has access to many sources and providers of joint venture financing.  This is achieved by creating a team between the Client and the Lender/Investor with the added financial capacity.		
+		Joint venture financing is similar to a partnership in that it must be created by agreement between the parties to share in the losses and profits of the venture.  Even though our Clients may not start out looking for partners, they recognize the value of sharing equity over "straight" debt financing. As a result, through joint venture financing, our Clients can reduce the amount of their personal capital at risk but still focus on the goal to achieve project funding.  Also, for Clients lacking the experience necessary to fulfill the debt lender's requirements, specific potential joint venture partners have the track record to satisfy this.  Depending on the Client's financial strength and/or experience, joint venture financing may be the only financing strategy to assure their project funded.		
 		</p>
 		<p class="specialh2"> 
-		Joint venture financing is similar to a partnership in that it must be created by agreement between the parties to share in the losses and profits of the venture.  Even though our clients may not start out looking for partners, they recognize the value of sharing equity over "straight" debt financing.  As a result, through joint venture financing, our Clients can reduce the amount of their personal capital at risk but still focus on the goal to get their project funded.  In some cases, joint venture financing may be the only way to get the project funded.
+		<b>Equiventure Capital has access to many private sources of joint venture financing for all asset types.  Below are the joint venture parameters.</b>
 		</p>
 <br />
 
 		<h3>Eligible Projects</h3>
-		<p>We will consider Multifamily, Retail, Industrial, Office, Residential Development, Hospitality and Condominium projects for the following types of investments:<br /><br />- Development<br />- Recapitalizations<br />- Renovations<br />- Aquisitions<br />- Refinance</p>
+		<p>We will consider Multifamily, Retail, Industrial, Office, Residential Development, Hospitality, Student Housing, Assisted Living Facilities, Charter Schools and Condominium projects for the following types of investments:<br /><br />- Development<br />- Recapitalizations<br />- Conversion Renovations<br />- Aquisition<br />- Refinance</p>
 
 		<h3>Eligible Property Locations</h3>
-		<p>We work on projects in all 50 states as well as internationally</p>
+		<p>All 50 states as well as internationally</p>
 
 		<h3>Deal Size</h3>
 		<p>$10,000,000 to $1 Billion+</p>
 
 		<h3>Holding Periods</h3>
-		<p>1-5 Years. Project durations will affect risk adjustments in pricing</p>
+		<p>3-5 Years. Since the duration of the joint venture commitment will affect the investor's risk analysis model, Equiventure Capital will advise the Client on establishing realistic investor return strategies </p>
 
 		<h3>Investment Amounts</h3>
-		<p>Amounts up to 100% financing</p>
+		<p>Joint Venture Investor Participation Amounts up to 80% of the Equity requirement</p>
 
 		<h3>Target Profit Participation</h3>
-		<p>Depending on project dynamics, sponsor suitability and deal structure lender will target between 25% and 75% profit participation</p>
+		<p>Depending on project dynamics, sponsor suitability and deal structure Joint Venture/Equity Investor will target between 25% and 75% profit participation</p>
 		
 		
 
